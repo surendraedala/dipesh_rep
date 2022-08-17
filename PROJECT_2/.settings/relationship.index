@@ -4,5 +4,13 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ ]
+  "relatedItems" : [ {
+    "id" : "_8phagB4ZEe2LmYhN-DQR5Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_8phagB4ZEe2LmYhN-DQR5Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
