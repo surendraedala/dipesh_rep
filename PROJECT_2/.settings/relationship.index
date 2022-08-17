@@ -4,13 +4,5 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ {
-    "id" : "_RFeMMB4YEe2LmYhN-DQR5Q",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_RFeMMB4YEe2LmYhN-DQR5Q - metadata",
-    "version" : "Latest",
-    "type" : "schema"
-  } ]
+  "relatedItems" : [ ]
 } ]
